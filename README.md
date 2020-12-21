@@ -4,9 +4,9 @@
 
 Deep Learning Network 경량화
 
+https://www.youtube.com/watch?v=F1dvc8B4yTk
 
 팀: 흩죽뭉살
-
 
 이다연 임미옥 전효희 최정인
 
